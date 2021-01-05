@@ -37,3 +37,16 @@ const bubbleSort = (input) => {
   return input;
 };
 ```
+
+### Work experience
+
+### Education / training courses
+1. Basic Javascript on Hexlet.io (free part)
+2. Video lessons **Javascript** by *Petrichenko*
+3. [JavaScript on code-basics.com](https://ru.code-basics.com/languages/javascript)
+4. [JavaScript on learn.javascript.ru](https://learn.javascript.ru/)
+5. [JavaScript on developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+
+### English language
+Proficiency level - **A2**
+School of Foreign Languages - Streamline
