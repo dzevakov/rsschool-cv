@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
   font-size: 16pt;
 }
@@ -21,12 +22,16 @@ body {
   background-color: #bdbec0;
 }
 
-.main-block {
-  display: flex;
+.container{
   width: 1200px;
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.main-block {
+  display: flex;
+  width: 100%;
 }
 
 .side-panel {
@@ -84,7 +89,7 @@ body {
 }
 
 .main-content {
-  width: 64%;
+  width: 67%;
   color: #464646;
   background-color: #fff;
 }
@@ -126,4 +131,31 @@ header {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footer {
+  display: flex;
+  padding-left: 4%;
+  padding-right: 7%;
+  padding-bottom: 30px;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, rgba(82,82,82,1) 0%, rgba(57,57,57,1) 100%);
+  color: #fff;  
+}
+
+.rss-logo {
+  display: block;
+  width: 100px;
+  height: 50px;
+  background: url(../img/rs_school_js.svg) center no-repeat;
+  background-size: contain;
+}
+
+.my-github-link {
+  text-decoration: none;
+}
+
+.my-github-link:visited {
+  color: #fff;  
 }
