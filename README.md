@@ -1,1 +1,1 @@
-You can find my CV [at the following link.](https://dzevakov.github.io/rsschool-cv/)
+You can find my CV [at the following link](https://dzevakov.github.io/rsschool-cv/)
